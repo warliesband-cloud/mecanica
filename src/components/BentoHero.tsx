@@ -146,7 +146,7 @@ export default function BentoHero() {
               {/* Box 2A: Motor Diesel Image Block */}
               <div className="relative rounded-2xl overflow-hidden aspect-[4/3] border border-slate-900 group cursor-pointer" onClick={() => handleScrollTo('#galeria')}>
                 <img 
-                  src="/src/assets/images/mrc_engine_repair_1779380541633.png" 
+                  src="/mrc_engine_repair_1779380541633.png" 
                   alt="Motor Diesel" 
                   className="w-full h-full object-cover grayscale opacity-60 group-hover:grayscale-0 group-hover:opacity-80 transition-all duration-300"
                   referrerPolicy="no-referrer"
@@ -162,7 +162,7 @@ export default function BentoHero() {
               {/* Box 2B: Transmissão Image Block */}
               <div className="relative rounded-2xl overflow-hidden aspect-[4/3] border border-slate-900 group cursor-pointer" onClick={() => handleScrollTo('#galeria')}>
                 <img 
-                  src="/src/assets/images/mrc_suspension_1779380563262.png" 
+                  src="/mrc_suspension_1779380563262.png" 
                   alt="Transmissão" 
                   className="w-full h-full object-cover grayscale opacity-60 group-hover:grayscale-0 group-hover:opacity-80 transition-all duration-300"
                   referrerPolicy="no-referrer"
@@ -180,7 +180,7 @@ export default function BentoHero() {
             {/* Bottom Row long banner image */}
             <div className="relative rounded-2xl overflow-hidden flex-1 min-h-[110px] md:min-h-[140px] border border-slate-900 group cursor-pointer" onClick={() => handleScrollTo('#galeria')}>
               <img 
-                src="/src/assets/images/mrc_hero_diesel_1779380499996.png" 
+                src="/mrc_hero_diesel_1779380499996.png" 
                 alt="Linha Pesada" 
                 className="w-full h-full object-cover grayscale opacity-50 group-hover:grayscale-0 group-hover:opacity-75 transition-all duration-300"
                 referrerPolicy="no-referrer"
