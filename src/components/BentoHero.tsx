@@ -90,7 +90,7 @@ export default function BentoHero() {
         {/* High-Impact Enterprise Brand Banner - Centered & Rounded professionally */}
         <div className="mt-6 rounded-2xl overflow-hidden border border-slate-900 shadow-2xl relative group">
           <img 
-            src="/src/assets/images/mrc_company_banner_1779382247039.png" 
+            src="/mrc_company_banner_1779382247039.png" 
             alt="MRC Mecânica Diesel Banner" 
             className="w-full h-auto object-cover opacity-95 group-hover:opacity-100 transition-opacity duration-300"
             referrerPolicy="no-referrer"
