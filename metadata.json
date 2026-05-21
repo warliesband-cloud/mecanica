@@ -1,0 +1,6 @@
+{
+  "name": "MRC - Mecânica Diesel",
+  "description": "Oficina mecânica especializada em manutenção preventiva, reparos complexos e diagnóstico avançado de veículos diesel do leve ao pesado, com foco em caminhões.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
