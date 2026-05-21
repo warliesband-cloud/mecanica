@@ -1,7 +1,7 @@
 import { MapPin, Phone, Mail, Clock, ShieldCheck } from 'lucide-react';
 
 export default function LocationMap() {
-  const mapIframeUrl = "https://maps.google.com/maps?q=Rua%20Palmeira%2065%2C%20Vargem%20Pequena%2C%20Rio%20de%20Janeiro&t=&z=16&ie=UTF8&iwloc=&output=embed";
+  const mapIframeUrl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.833798018476!2d-43.462123024860404!3d-22.993138379194356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997ffc7984bc55%3A0xa8c19b2a0ac66bb3!2sMRC%20mec%C3%A2nica!5e0!3m2!1spt-BR!2sbr!4v1779397885083!5m2!1spt-BR!2sbr";
 
   const contactInfo = [
     {
