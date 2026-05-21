@@ -9,7 +9,7 @@ const galleryItems: GalleryItem[] = [
     title: 'Retífica e Reforma Completa de Motor Cummins ISM 11',
     description: 'Brunimento de camisa de cilindros, substituição de pistões, bielas, casquilhos e brunidores no bloco. Recuperação da taxa de compressão original de fábrica e parametrização eletrônica de torque.',
     category: 'complex',
-    image: '/src/assets/images/mrc_engine_repair_1779380541633.png',
+    image: '/mrc_engine_repair_1779380541633.png',
     truckType: 'Caminhão Pesado Core (Scania / Volvo)'
   },
   {
@@ -17,7 +17,7 @@ const galleryItems: GalleryItem[] = [
     title: 'Substituição Completa de Bolsas de Ar e Molas Clássicas',
     description: 'Substituição das câmaras pneumáticas de ar traseiras e embuchamentos de PU do eixo de tração, com alinhamento a laser computadorizado e calibração de válvulas distribuidoras de freio de carreta.',
     category: 'suspension',
-    image: '/src/assets/images/mrc_suspension_1779380563262.png',
+    image: '/mrc_suspension_1779380563262.png',
     truckType: 'Cavalo Mecânico Trucado 6x4'
   },
   {
@@ -25,7 +25,7 @@ const galleryItems: GalleryItem[] = [
     title: 'Mapeamento Completo de Sensores Arla-32 & NOx',
     description: 'Diagnóstico computadorizado avançado por osciloscópio multicanal na rede CAN-bus do catalisador SCR. Limpeza química de injetor de uréia cristalizado com ultrassom e troca de sensor NOx duplo.',
     category: 'diagnostic',
-    image: '/src/assets/images/mrc_diagnostic_1779380521458.png',
+    image: '/mrc_diagnostic_1779380521458.png',
     truckType: 'M-Benz Axor / Actros'
   },
   {
@@ -33,7 +33,7 @@ const galleryItems: GalleryItem[] = [
     title: 'Manutenção Preventiva Geral de Caixa Automatizada I-Shift',
     description: 'Substituição preventiva do dumper amortecedor, atuador pneumático de embreagem e lubrificante sintético específico de alto rendimento. Calibração de engate fino via computador de bordo.',
     category: 'preventive',
-    image: '/src/assets/images/mrc_hero_diesel_1779380499996.png',
+    image: '/mrc_hero_diesel_1779380499996.png',
     truckType: 'Volvo FH 540 Pesado'
   }
 ];
